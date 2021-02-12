@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="url">Explicit Intent</string>
+    <string name="implicit">Implicit Intent</string>
+    <string name="label">Enter URL</string>
+    <string name="name">Enter Name</string>
+    <string name="password">Enter Password</string>
+    <string name="button">Submit</string>
+</resources>
